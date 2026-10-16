@@ -134,5 +134,14 @@ This project demonstrates practical use of:
 Weather data is provided by [Open-Meteo](https://open-meteo.com/). Please refer to its [documentation](https://open-meteo.com/en/docs) and [terms](https://open-meteo.com/en/terms) for usage conditions and attribution requirements.
 
 ---
+## 👨‍💻 Author
 
+**Garv Gupta**
+
+B.Tech CSE — Data Science  
+VIT Vellore
+
+- GitHub: [GarvGupta04](https://github.com/GarvGupta04)
+
+  
 If you find this project useful, consider giving the repository a ⭐ on GitHub!
