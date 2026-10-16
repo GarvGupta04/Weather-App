@@ -129,14 +129,6 @@ This project demonstrates practical use of:
 - Save favourite cities and recent searches.
 - Improve accessibility and add dark mode.
 
-## 👨‍💻 Author
-
-**Garv Gupta**
-
-CSE (Data Science) Student | VIT Vellore
-
-- GitHub: [@GarvGupta04](https://github.com/GarvGupta04)
-
 ## 📄 Data Source and Attribution
 
 Weather data is provided by [Open-Meteo](https://open-meteo.com/). Please refer to its [documentation](https://open-meteo.com/en/docs) and [terms](https://open-meteo.com/en/terms) for usage conditions and attribution requirements.
