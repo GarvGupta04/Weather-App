@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <main class="weather-app">
+        <h1>Weather App</h1>
+        <p class="subtitle">Discover the weather in your city</p>
+
+        <form id="search-form">
+            <input type="text" id="city-input" placeholder="Enter city name..." aria-label="City name" required>
+            <button type="submit">Search</button>
+        </form>
+
+        <p id="status" role="status">Search for a city to get started.</p>
+
+        <section id="weather-card" class="weather-card hidden">
+            <h2 id="city-name">City</h2>
+            <p id="weather-description">Weather conditions</p>
+            <div class="temperature">
+                <span id="weather-icon">🌤️</span>
+                <span id="temperature">--</span>
+                <span>°C</span>
+            </div>
+
+            <p id="feels-like">Feels like: -- °C</p>
+
+            <div class="details">
+                <div class="detail">
+                    <span>Humidity</span>
+                    <strong id="humidity">--%</strong>
+                </div>
+                <div class="detail">
+                    <span>Wind speed</span>
+                    <strong id="wind-speed">-- km/h</strong>
+                </div>
+            </div>
+        </section>
+
+        <footer>Weather data provided by Open-Meteo</footer>
+    </main>
+</body>
+
+</html>
